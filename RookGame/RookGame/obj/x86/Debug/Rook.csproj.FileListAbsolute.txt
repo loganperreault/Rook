@@ -1,0 +1,6 @@
+C:\Users\Logan\Documents\Visual Studio 2010\Projects\RookGame\RookGame\RookGame\bin\x86\Debug\GameOfPawns.exe
+C:\Users\Logan\Documents\Visual Studio 2010\Projects\RookGame\RookGame\RookGame\bin\x86\Debug\GameOfPawns.pdb
+C:\Users\Logan\Documents\Visual Studio 2010\Projects\RookGame\RookGame\RookGame\obj\x86\Debug\Rook.csprojResolveAssemblyReference.cache
+C:\Users\Logan\Documents\Visual Studio 2010\Projects\RookGame\RookGame\RookGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Logan\Documents\Visual Studio 2010\Projects\RookGame\RookGame\RookGame\obj\x86\Debug\GameOfPawns.exe
+C:\Users\Logan\Documents\Visual Studio 2010\Projects\RookGame\RookGame\RookGame\obj\x86\Debug\GameOfPawns.pdb

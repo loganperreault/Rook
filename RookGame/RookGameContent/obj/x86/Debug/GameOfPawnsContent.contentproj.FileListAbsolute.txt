@@ -1,0 +1,1 @@
+c:\users\logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawnsContent\obj\x86\Debug\GameOfPawnsContent.contentprojResolveAssemblyReference.cache

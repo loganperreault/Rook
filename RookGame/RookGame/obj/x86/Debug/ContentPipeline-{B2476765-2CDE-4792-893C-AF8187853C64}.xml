@@ -1,0 +1,967 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>endMenu.png</Source>
+      <Name>endMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\endMenu.xnb</Output>
+      <Time>2012-11-23T00:58:30.6365949-07:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2012-11-23T00:58:30.6605963-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mainbackground.png</Source>
+      <Name>mainbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\mainbackground.xnb</Output>
+      <Time>2012-11-23T00:58:30.7225998-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMenu.png</Source>
+      <Name>mainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\mainMenu.xnb</Output>
+      <Time>2012-11-23T00:58:30.760602-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mine.png</Source>
+      <Name>mine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\mine.xnb</Output>
+      <Time>2012-11-23T00:58:30.7896037-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mineAnimation.png</Source>
+      <Name>mineAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\mineAnimation.xnb</Output>
+      <Time>2012-11-23T00:58:30.8196054-07:00</Time>
+    </Item>
+    <Item>
+      <Source>shipAnimation.png</Source>
+      <Name>shipAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\shipAnimation.xnb</Output>
+      <Time>2012-11-23T00:58:30.8726084-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Bitmap1.bmp</Source>
+      <Name>Bitmap1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Bitmap1.xnb</Output>
+      <Time>2012-12-23T18:47:23.1953013-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\explosion.wav</Source>
+      <Name>Sound\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Sound\explosion.xnb</Output>
+      <Time>2012-11-23T00:58:30.953613-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\laserFire.wav</Source>
+      <Name>Sound\laserFire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Sound\laserFire.xnb</Output>
+      <Time>2012-11-23T00:58:31.0776201-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\gameMusic.mp3</Source>
+      <Name>Sound\gameMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Sound\gameMusic.xnb</Output>
+      <Extra>c:\users\logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Sound\gameMusic.wma</Extra>
+      <Time>2012-11-23T00:58:31.0506186-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\menuMusic.mp3</Source>
+      <Name>Sound\menuMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Sound\menuMusic.xnb</Output>
+      <Extra>c:\users\logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Sound\menuMusic.wma</Extra>
+      <Time>2012-11-23T00:58:31.1246228-07:00</Time>
+    </Item>
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\gameFont.xnb</Output>
+      <Time>2012-11-23T00:58:30.6795974-07:00</Time>
+    </Item>
+    <Item>
+      <Source>barshelf.bmp</Source>
+      <Name>barshelf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\barshelf.xnb</Output>
+      <Time>2013-04-29T00:28:13.9708503-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bathroomtile.bmp</Source>
+      <Name>bathroomtile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\bathroomtile.xnb</Output>
+      <Time>2013-04-29T00:28:13.9728504-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bathroomtilefloor.bmp</Source>
+      <Name>bathroomtilefloor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\bathroomtilefloor.xnb</Output>
+      <Time>2013-04-29T00:28:13.9748505-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bluemat.bmp</Source>
+      <Name>bluemat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\bluemat.xnb</Output>
+      <Time>2013-04-29T00:28:13.9768506-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bluematfront.bmp</Source>
+      <Name>bluematfront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\bluematfront.xnb</Output>
+      <Time>2013-04-29T00:28:13.9788507-06:00</Time>
+    </Item>
+    <Item>
+      <Source>booth.bmp</Source>
+      <Name>booth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\booth.xnb</Output>
+      <Time>2013-04-29T00:28:13.9818509-06:00</Time>
+    </Item>
+    <Item>
+      <Source>building1.bmp</Source>
+      <Name>building1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\building1.xnb</Output>
+      <Time>2013-04-29T00:28:13.983851-06:00</Time>
+    </Item>
+    <Item>
+      <Source>building2.bmp</Source>
+      <Name>building2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\building2.xnb</Output>
+      <Time>2013-04-29T00:28:13.9858511-06:00</Time>
+    </Item>
+    <Item>
+      <Source>building3.bmp</Source>
+      <Name>building3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\building3.xnb</Output>
+      <Time>2013-04-29T00:28:13.9878512-06:00</Time>
+    </Item>
+    <Item>
+      <Source>building4.bmp</Source>
+      <Name>building4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\building4.xnb</Output>
+      <Time>2013-04-29T00:28:13.9898513-06:00</Time>
+    </Item>
+    <Item>
+      <Source>building5.bmp</Source>
+      <Name>building5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\building5.xnb</Output>
+      <Time>2013-04-29T00:28:13.9928515-06:00</Time>
+    </Item>
+    <Item>
+      <Source>building6.bmp</Source>
+      <Name>building6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\building6.xnb</Output>
+      <Time>2013-04-29T00:28:13.9948516-06:00</Time>
+    </Item>
+    <Item>
+      <Source>buildingroof.bmp</Source>
+      <Name>buildingroof</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\buildingroof.xnb</Output>
+      <Time>2013-04-29T00:28:14.0038521-06:00</Time>
+    </Item>
+    <Item>
+      <Source>buildingroof2.bmp</Source>
+      <Name>buildingroof2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\buildingroof2.xnb</Output>
+      <Time>2013-04-29T00:28:14.0058523-06:00</Time>
+    </Item>
+    <Item>
+      <Source>buildingtrim.bmp</Source>
+      <Name>buildingtrim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\buildingtrim.xnb</Output>
+      <Time>2013-04-29T00:28:14.0088524-06:00</Time>
+    </Item>
+    <Item>
+      <Source>buildingupclose1.bmp</Source>
+      <Name>buildingupclose1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\buildingupclose1.xnb</Output>
+      <Time>2013-04-29T00:28:14.0108526-06:00</Time>
+    </Item>
+    <Item>
+      <Source>buildingupclose2.bmp</Source>
+      <Name>buildingupclose2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\buildingupclose2.xnb</Output>
+      <Time>2013-04-29T00:28:14.0138527-06:00</Time>
+    </Item>
+    <Item>
+      <Source>citybackground.bmp</Source>
+      <Name>citybackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\citybackground.xnb</Output>
+      <Time>2013-04-29T00:28:14.0168529-06:00</Time>
+    </Item>
+    <Item>
+      <Source>cloudynightsky.bmp</Source>
+      <Name>cloudynightsky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\cloudynightsky.xnb</Output>
+      <Time>2013-04-29T00:28:14.0198531-06:00</Time>
+    </Item>
+    <Item>
+      <Source>darksand.bmp</Source>
+      <Name>darksand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\darksand.xnb</Output>
+      <Time>2013-04-29T00:28:14.0218532-06:00</Time>
+    </Item>
+    <Item>
+      <Source>dirt.bmp</Source>
+      <Name>dirt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\dirt.xnb</Output>
+      <Time>2013-04-29T00:28:14.2658671-06:00</Time>
+    </Item>
+    <Item>
+      <Source>grass.bmp</Source>
+      <Name>grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\grass.xnb</Output>
+      <Time>2013-04-29T00:28:14.2828681-06:00</Time>
+    </Item>
+    <Item>
+      <Source>grass2.bmp</Source>
+      <Name>grass2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\grass2.xnb</Output>
+      <Time>2013-04-29T00:28:14.3028693-06:00</Time>
+    </Item>
+    <Item>
+      <Source>greybackground.bmp</Source>
+      <Name>greybackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\greybackground.xnb</Output>
+      <Time>2013-04-29T00:28:14.3218703-06:00</Time>
+    </Item>
+    <Item>
+      <Source>greybrick.bmp</Source>
+      <Name>greybrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\greybrick.xnb</Output>
+      <Time>2013-04-29T00:28:14.3408714-06:00</Time>
+    </Item>
+    <Item>
+      <Source>gymfloor.bmp</Source>
+      <Name>gymfloor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\gymfloor.xnb</Output>
+      <Time>2013-04-29T00:28:14.3598725-06:00</Time>
+    </Item>
+    <Item>
+      <Source>hotelbalcony.bmp</Source>
+      <Name>hotelbalcony</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\hotelbalcony.xnb</Output>
+      <Time>2013-04-29T00:28:14.3788736-06:00</Time>
+    </Item>
+    <Item>
+      <Source>hotelfloor.bmp</Source>
+      <Name>hotelfloor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\hotelfloor.xnb</Output>
+      <Time>2013-04-29T00:28:14.3998748-06:00</Time>
+    </Item>
+    <Item>
+      <Source>hotelhallway.bmp</Source>
+      <Name>hotelhallway</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\hotelhallway.xnb</Output>
+      <Time>2013-04-29T00:28:14.4178758-06:00</Time>
+    </Item>
+    <Item>
+      <Source>hotelpaint.bmp</Source>
+      <Name>hotelpaint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\hotelpaint.xnb</Output>
+      <Time>2013-04-29T00:28:14.4358769-06:00</Time>
+    </Item>
+    <Item>
+      <Source>loungebar.bmp</Source>
+      <Name>loungebar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\loungebar.xnb</Output>
+      <Time>2013-04-29T00:28:14.4538779-06:00</Time>
+    </Item>
+    <Item>
+      <Source>loungefloor.bmp</Source>
+      <Name>loungefloor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\loungefloor.xnb</Output>
+      <Time>2013-04-29T00:28:14.472879-06:00</Time>
+    </Item>
+    <Item>
+      <Source>loungewall.bmp</Source>
+      <Name>loungewall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\loungewall.xnb</Output>
+      <Time>2013-04-29T00:28:14.49088-06:00</Time>
+    </Item>
+    <Item>
+      <Source>mansioncarpet.bmp</Source>
+      <Name>mansioncarpet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\mansioncarpet.xnb</Output>
+      <Time>2013-04-29T00:28:14.5098811-06:00</Time>
+    </Item>
+    <Item>
+      <Source>mansionpaint.bmp</Source>
+      <Name>mansionpaint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\mansionpaint.xnb</Output>
+      <Time>2013-04-29T00:28:14.5288822-06:00</Time>
+    </Item>
+    <Item>
+      <Source>mansionwallpaper.bmp</Source>
+      <Name>mansionwallpaper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\mansionwallpaper.xnb</Output>
+      <Time>2013-04-29T00:28:14.5478833-06:00</Time>
+    </Item>
+    <Item>
+      <Source>mansionwindow.bmp</Source>
+      <Name>mansionwindow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\mansionwindow.xnb</Output>
+      <Time>2013-04-29T00:28:14.5688845-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ocean.bmp</Source>
+      <Name>ocean</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\ocean.xnb</Output>
+      <Time>2013-04-29T00:28:14.5878856-06:00</Time>
+    </Item>
+    <Item>
+      <Source>officecarpet.bmp</Source>
+      <Name>officecarpet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\officecarpet.xnb</Output>
+      <Time>2013-04-29T00:28:14.6088868-06:00</Time>
+    </Item>
+    <Item>
+      <Source>officecarpet2.bmp</Source>
+      <Name>officecarpet2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\officecarpet2.xnb</Output>
+      <Time>2013-04-29T00:28:14.6278878-06:00</Time>
+    </Item>
+    <Item>
+      <Source>officetrim.bmp</Source>
+      <Name>officetrim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\officetrim.xnb</Output>
+      <Time>2013-04-29T00:28:14.6458889-06:00</Time>
+    </Item>
+    <Item>
+      <Source>officewallpaper.bmp</Source>
+      <Name>officewallpaper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\officewallpaper.xnb</Output>
+      <Time>2013-04-29T00:28:14.7128927-06:00</Time>
+    </Item>
+    <Item>
+      <Source>officewallpaper2.bmp</Source>
+      <Name>officewallpaper2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\officewallpaper2.xnb</Output>
+      <Time>2013-04-29T00:28:14.7488948-06:00</Time>
+    </Item>
+    <Item>
+      <Source>redsky.bmp</Source>
+      <Name>redsky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\redsky.xnb</Output>
+      <Time>2013-04-29T00:28:14.7758963-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sand.bmp</Source>
+      <Name>sand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\sand.xnb</Output>
+      <Time>2013-04-29T00:28:14.8298994-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sidewalkside.bmp</Source>
+      <Name>sidewalkside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\sidewalkside.xnb</Output>
+      <Time>2013-04-29T00:28:14.8499005-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sidewalktop.bmp</Source>
+      <Name>sidewalktop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\sidewalktop.xnb</Output>
+      <Time>2013-04-29T00:28:14.8689016-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sidewalktop2.bmp</Source>
+      <Name>sidewalktop2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\sidewalktop2.xnb</Output>
+      <Time>2013-04-29T00:28:14.8889028-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sky.bmp</Source>
+      <Name>sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\sky.xnb</Output>
+      <Time>2013-04-29T00:28:14.9079039-06:00</Time>
+    </Item>
+    <Item>
+      <Source>street.bmp</Source>
+      <Name>street</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\street.xnb</Output>
+      <Time>2013-04-29T00:29:07.4019063-06:00</Time>
+    </Item>
+    <Item>
+      <Source>chain.bmp</Source>
+      <Name>chain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\chain.xnb</Output>
+      <Time>2013-07-11T16:10:33.2134335-06:00</Time>
+    </Item>
+    <Item>
+      <Source>mailbox.bmp</Source>
+      <Name>mailbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\mailbox.xnb</Output>
+      <Time>2013-07-11T16:10:33.2134335-06:00</Time>
+    </Item>
+    <Item>
+      <Source>punching bag.bmp</Source>
+      <Name>punching bag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\punching bag.xnb</Output>
+      <Time>2013-07-11T16:10:33.2290335-06:00</Time>
+    </Item>
+    <Item>
+      <Source>streetlight.bmp</Source>
+      <Name>streetlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\streetlight.xnb</Output>
+      <Time>2013-07-11T16:10:33.2290335-06:00</Time>
+    </Item>
+    <Item>
+      <Source>trashcan.png</Source>
+      <Name>trashcan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\trashcan.xnb</Output>
+      <Time>2013-07-11T16:37:55.2777054-06:00</Time>
+    </Item>
+    <Item>
+      <Source>car1.png</Source>
+      <Name>car1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\car1.xnb</Output>
+      <Time>2013-07-14T18:38:52.0593299-06:00</Time>
+    </Item>
+    <Item>
+      <Source>manhole.png</Source>
+      <Name>manhole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\manhole.xnb</Output>
+      <Time>2013-07-14T18:43:27.5250857-06:00</Time>
+    </Item>
+    <Item>
+      <Source>car2.png</Source>
+      <Name>car2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\car2.xnb</Output>
+      <Time>2013-07-14T18:43:04.1667497-06:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy1\kick\kick1.png</Source>
+      <Name>enemy1\kick\kick1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\enemy1\kick\kick1.xnb</Output>
+      <Time>2013-07-15T23:04:29.3369869-06:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy1\punch\punch1.png</Source>
+      <Name>enemy1\punch\punch1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\enemy1\punch\punch1.xnb</Output>
+      <Time>2013-07-15T23:05:37.0058573-06:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy1\block\block.png</Source>
+      <Name>enemy1\block\block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\enemy1\block\block.xnb</Output>
+      <Time>2013-07-15T23:03:18.1709164-06:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy1\punch\punch2.png</Source>
+      <Name>enemy1\punch\punch2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\enemy1\punch\punch2.xnb</Output>
+      <Time>2013-07-15T23:05:53.5428031-06:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy1\run\walk.png</Source>
+      <Name>enemy1\run\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\enemy1\run\walk.xnb</Output>
+      <Time>2013-07-15T23:06:10.988801-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy1\slide_kick\slide_kick.png</Source>
+      <Name>Enemy1\slide_kick\slide_kick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Enemy1\slide_kick\slide_kick.xnb</Output>
+      <Time>2013-08-01T17:46:01.9598332-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy1\slide_punch\slide_punch.png</Source>
+      <Name>Enemy1\slide_punch\slide_punch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Enemy1\slide_punch\slide_punch.xnb</Output>
+      <Time>2013-08-01T18:00:59.6321772-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Rook\Dash.png</Source>
+      <Name>Rook\Dash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Rook\Dash.xnb</Output>
+      <Time>2013-01-14T09:15:57.7872295-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Rook\Duck.png</Source>
+      <Name>Rook\Duck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Rook\Duck.xnb</Output>
+      <Time>2012-12-24T18:29:05.274972-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Rook\Kick.png</Source>
+      <Name>Rook\Kick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Rook\Kick.xnb</Output>
+      <Time>2013-01-11T10:20:51.686223-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Rook\Punch.png</Source>
+      <Name>Rook\Punch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Rook\Punch.xnb</Output>
+      <Time>2012-12-25T00:15:58.9250054-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Rook\Run.png</Source>
+      <Name>Rook\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Rook\Run.xnb</Output>
+      <Time>2012-12-24T00:42:05.4139768-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Rook\Stand.png</Source>
+      <Name>Rook\Stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Rook\Stand.xnb</Output>
+      <Time>2012-12-24T23:59:36.7528284-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Rook\HighGrab.png</Source>
+      <Name>Rook\HighGrab</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Rook\HighGrab.xnb</Output>
+      <Time>2013-07-21T08:16:20.46667-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Rook\LowGrab.png</Source>
+      <Name>Rook\LowGrab</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Rook\LowGrab.xnb</Output>
+      <Time>2013-07-21T08:16:20.4406685-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Rook\ChokeHold.png</Source>
+      <Name>Rook\ChokeHold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Rook\ChokeHold.xnb</Output>
+      <Time>2013-07-21T08:16:20.4126669-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Rook\HighThrow.png</Source>
+      <Name>Rook\HighThrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Rook\HighThrow.xnb</Output>
+      <Time>2013-07-21T08:16:20.4896713-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Rook\HumanShield.png</Source>
+      <Name>Rook\HumanShield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Rook\HumanShield.xnb</Output>
+      <Time>2013-07-21T08:16:20.4786707-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Rook\LowThrow.png</Source>
+      <Name>Rook\LowThrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Rook\LowThrow.xnb</Output>
+      <Time>2013-07-21T08:16:20.4536693-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Rook\ChokeHold1.png</Source>
+      <Name>Rook\ChokeHold1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Rook\ChokeHold1.xnb</Output>
+      <Time>2013-07-28T18:31:07.363843-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Rook\ChokeHold2.png</Source>
+      <Name>Rook\ChokeHold2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Rook\ChokeHold2.xnb</Output>
+      <Time>2013-07-28T18:31:16.2903536-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy1\Grabbed\Grabbed.png</Source>
+      <Name>Enemy1\Grabbed\Grabbed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Enemy1\Grabbed\Grabbed.xnb</Output>
+      <Time>2013-07-28T18:36:18.0096109-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy1\slide_kick\slide_kick_windup.png</Source>
+      <Name>Enemy1\slide_kick\slide_kick_windup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Enemy1\slide_kick\slide_kick_windup.xnb</Output>
+      <Time>2013-08-01T17:48:04.7588569-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy1\slide_punch\slide_punch_windup.png</Source>
+      <Name>Enemy1\slide_punch\slide_punch_windup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Enemy1\slide_punch\slide_punch_windup.xnb</Output>
+      <Time>2013-08-01T20:08:26.8595735-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy1\dazed.png</Source>
+      <Name>Enemy1\dazed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Enemy1\dazed.xnb</Output>
+      <Time>2013-08-02T00:21:51.5172302-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy1\getting_up.png</Source>
+      <Name>Enemy1\getting_up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Enemy1\getting_up.xnb</Output>
+      <Time>2013-08-02T00:23:57.884458-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy1\thrown.png</Source>
+      <Name>Enemy1\thrown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Enemy1\thrown.xnb</Output>
+      <Time>2013-08-02T00:26:59.9948741-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy1\hit\hit.png</Source>
+      <Name>Enemy1\hit\hit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Enemy1\hit\hit.xnb</Output>
+      <Time>2013-08-02T00:24:36.8686878-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy1\hit\hit2.png</Source>
+      <Name>Enemy1\hit\hit2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Enemy1\hit\hit2.xnb</Output>
+      <Time>2013-08-02T00:27:31.1166542-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy1\Down.png</Source>
+      <Name>Enemy1\Down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Enemy1\Down.xnb</Output>
+      <Time>2013-08-05T12:46:06.7297183-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Pow.wav</Source>
+      <Name>Sound\Pow</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\Sound\Pow.xnb</Output>
+      <Time>2013-08-08T23:30:25.0916693-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{B2476765-2CDE-4792-893C-AF8187853C64}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawnsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Logan\documents\visual studio 2010\Projects\GameOfPawns\GameOfPawns\GameOfPawns\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-11-22T14:26:27.5884023-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
